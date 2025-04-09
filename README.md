@@ -21,7 +21,7 @@ A responsive and theme-toggleable Weather App built using **React** and **Tailwi
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/ojhapriyanshu/weather-app.git
    cd weather-app
    ```
 
@@ -97,6 +97,7 @@ src/
 ---
 
 ## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/d33d67f3-7b70-434c-907f-e60d8b1d1d13)
 
 
 
